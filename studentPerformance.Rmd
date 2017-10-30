@@ -3,8 +3,10 @@ title: "Educational Data Mining (EDM) Techniques for Predicting Student Academic
 author: "Sneha Dingre"
 date: "22 October 2017"
 output:
-  html_document: default
+  html_document:
+    keep_md: true
   pdf_document: default
+  
 ---
 
 ```{r setup, include=FALSE}
